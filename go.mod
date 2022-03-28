@@ -1,4 +1,4 @@
-module github.com/kinfkong/mongo
+module github.com/kinfkong/mongo.v3
 
 go 1.13
 
